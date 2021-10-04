@@ -1,0 +1,35 @@
+.header_col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid white 1px;
+  border-radius: 5px;
+  margin: 2px;
+  color:white;
+}
+
+.header_col_sun{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid white 1px;
+  border-radius: 5px;
+  margin: 2px;
+  background-color: grey;
+}
+
+.head_row_size{
+  height:10%;
+/*   border: solid green 1px; */
+}
+
+.row_size{
+  height:15%;
+/*   border:solid green 1px; */
+}
+
+ion-button{
+  --background: #333;
+/*   text-align: center; */
+/*   --background-activated: #222; */
+}

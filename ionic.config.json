@@ -1,0 +1,7 @@
+{
+  "name": "FFS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

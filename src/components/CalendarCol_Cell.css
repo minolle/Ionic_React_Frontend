@@ -1,0 +1,60 @@
+.button_size{
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    width:100%;
+    height:100%;
+    margin:0;
+/*     color:red; */
+/*     background-color:blue; */
+/*     padding:0; */
+/*     text-align:left !important; */
+/*     border:solid white 2px; */
+/*     background:red !important; */
+/*     fill:outline; */
+}
+
+.col_pad{
+  padding-top:2px;
+  padding-bottom:2px;
+  padding:2px;
+  top:0;
+  bottom:0;
+/*   margin:0; */
+/*   padding-bottom:1px; */
+/*   border:solid b 1px; */
+/*   padding-bottom:1px; */
+}
+
+.cur_day{
+  padding-top:2px;
+  padding-bottom:2px;
+  padding:2px;
+  top:0;
+  bottom:0;
+  border:solid white 1px;
+  border-radius:5px;
+}
+
+.day_num_pos_sun{
+  position:absolute;
+  left:0;
+  top:0;
+  font-size:10px;
+  margin-left:0;
+  color:red;
+}
+
+.day_num_pos{
+/*   border-right:solid white 1px; */
+  position:absolute;
+  left:0;
+  top:0;
+  font-size:10px;
+  margin-left:0;
+/*   color:grey; */
+  /*margin:0;*/
+/*   padding:0; */
+/*   text-align:left; */
+}
